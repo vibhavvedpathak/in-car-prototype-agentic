@@ -1,5 +1,11 @@
 "use client";
 
+/**
+ * Car model attribution:
+ * "Cyberpunk car" (https://skfb.ly/6QUAI) by 4d_Bob 
+ * Licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)
+ */
+
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, useGLTF, Environment, Center, Stage } from "@react-three/drei";
 import { Suspense } from "react";
