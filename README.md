@@ -87,6 +87,3 @@ The system utilizes a directed acyclic graph (DAG) to manage state and logic flo
 
 - **3D Car Model**: ["Cyberpunk car"](https://skfb.ly/6QUAI) by [4d_Bob](https://sketchfab.com/4d_Bob) is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
