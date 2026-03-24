@@ -2,7 +2,7 @@
 
 A sophisticated, AI-first in-car dashboard prototype featuring a multimodal Multi-Agent orchestrator. This project demonstrates modern Agent-to-Agent (A2A) communication patterns and Model Context Protocol (MCP) tool integration to create a seamless, context-aware driving assistant.
 
-![In-Car Dashboard Demo](https://raw.githubusercontent.com/placeholder-demo.png) *(Add your screenshot here)*
+![In-Car Dashboard Demo](demo.png)
 
 ## 🌟 Key Features
 
